@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity
 
     private static final String sourcesURL = "https://newsapi.org/v2/sources?";
 
-    private static final String urlKey = "bd200bb707a844d2b9b02a8a4ca8da21";
+    private static final String urlKey = ""; //provide api key here
 
     private RequestQueue queueObject;
 
